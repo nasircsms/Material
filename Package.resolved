@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Motion",
+        "repositoryURL": "https://github.com/nasircsms/Motion.git",
+        "state": {
+          "branch": null,
+          "revision": "f52a43295283a3fa1bbb9973ceeda25a19462176",
+          "version": "3.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
